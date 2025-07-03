@@ -11,10 +11,10 @@
 </div>
 
 ---
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=ABOUT+ME+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
 </div>
+---
 
 ```python
 class AnkushSonawane:
@@ -40,7 +40,8 @@ me.say_hi()
 ---
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=Tech+Arsenal+%F0%9F%9B%A0%EF%B8%8F+" alt="Typing SVG" />
-</div>  
+</div>
+---
 
 <h3 align="center"><b>🤖 Machine Learning & AI</b></h3>
 <div align="center">
@@ -80,10 +81,10 @@ me.say_hi()
 </div>
 
 ---
-
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=GitHub+Analytics+%F0%9F%93%8A" alt="Typing SVG" />
 </div>
+---
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ankush610&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
