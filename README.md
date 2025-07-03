@@ -84,17 +84,6 @@ me = AnkushSonawane()
 
 ---
 
-## 🎯 What I'm Building
-
-```
-🔥 AI/ML model optimization for production
-🚀 LLM benchmarking & evaluation frameworks  
-⚡ HPC-accelerated distributed training systems
-🧠 Real-world AI solutions that scale
-```
-
----
-
 ## 🌟 Let's Connect & Build Together!
 
 <div align="center">
