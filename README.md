@@ -2,6 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=HPC+%2B+AI%2FML+Engineer;Building+Scalable+AI+Solutions;Deep+Learning+%26+ML+Expert;Let's+Build+Something+Amazing!&font=Fira%20Code&center=true&width=500&height=60&color=00d4aa&vCenter=true&size=20&pause=1000">
 </div>
 
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-sonawane-55b100234/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsonawane60@gmail.com)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Ankush610&color=00d4aa&style=for-the-badge&label=Visitors)
+  
+</div>
+
 ---
 
 ## 🚀 Quick Intro
@@ -76,12 +84,4 @@ me = AnkushSonawane()
 
 ---
 
-<div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-sonawane-55b100234/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsonawane60@gmail.com)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Ankush610&color=00d4aa&style=for-the-badge&label=Visitors)
-  
-</div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B50DFF&center=true&width=470&lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing+%E2%AD%90)](https://git.io/typing-svg)
+<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B50DFF&center=true&width=470&lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing+%E2%AD%90" alt="Typing SVG" /></a></center>
