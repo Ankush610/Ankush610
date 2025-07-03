@@ -82,6 +82,4 @@ me = AnkushSonawane()
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush610&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
----
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B50DFF&center=true&width=470&lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing+%E2%AD%90)](https://git.io/typing-svg)
