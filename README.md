@@ -13,7 +13,6 @@
 
 ---
 
-### 🔥 About Me
 - ⚡ HPC + AI/ML Engineer
 - 🛠️ Working on OpenFOAM custom builds, containerized LLM APIs, and HPC job analyzers
 - 🌱 Currently learning advanced MLOps and AI-HPC deployment practices
