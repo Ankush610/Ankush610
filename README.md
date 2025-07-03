@@ -103,7 +103,5 @@ me = AnkushSonawane()
   
   [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-sonawane-55b100234/)
   [![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsonawane60@gmail.com)
-  
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+visiting!+⭐;Star+repos+if+you+find+them+useful!&font=Fira%20Code&center=true&width=400&height=30&color=00d4aa&vCenter=true&size=16&pause=2000">
-  
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B912F7&center=true&width=435&lines=Thanks+For+Visiting+!!!;Star+Repos+If+You+Find+Them+Amazing+%E2%AD%90)](https://git.io/typing-svg)
