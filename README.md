@@ -84,4 +84,5 @@ me = AnkushSonawane()
 
 ---
 
-<center><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B50DFF&center=true&width=470&lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing+%E2%AD%90" alt="Typing SVG" /></a></center>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B50DFF&center=true&width=470&lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing+%E2%AD%90" alt="Typing SVG" /></a>
