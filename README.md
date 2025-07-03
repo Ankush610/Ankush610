@@ -1,3 +1,5 @@
+# Hi there! 👋 I'm Ankush Sonawane
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=HPC+%2B+AI%2FML+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Specialist;NLP+%26+LLM+Expert&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </div>
@@ -5,6 +7,7 @@
 <div align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-sonawane-55b100234/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ankush610)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsonawane60@gmail.com)
   
 </div>
@@ -13,31 +16,56 @@
 
 ## 🚀 About Me
 
-```python
-class AnkushSonawane:
-    def __init__(self):
-        self.name = "Ankush Sonawane"
-        self.role = "Project Engineer @ CDAC"
-        self.location = "Pune, Maharashtra, India"
-        self.focus = ["AI/ML", "HPC", "Deep Learning", "NLP"]
-        self.current_work = [
-            "AI/ML model optimization",
-            "LLM benchmarking & evaluation",
-            "HPC performance analysis",
-            "Distributed training systems"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together! 🚀")
+<div align="center">
+  
+### 💫 *"Bridging the gap between AI dreams and reality"*
 
-me = AnkushSonawane()
-me.say_hi()
-```
+</div>
 
-🔭 Currently working on **AI/ML model optimization** and **HPC performance analysis**  
-🌱 Exploring **Large Language Models** and **distributed training systems**  
-💡 Passionate about **combining AI/ML with HPC infrastructure**  
-🎯 Goal: Building scalable AI solutions for real-world applications  
+<div align="center">
+  
+  🎯 **HPC + AI/ML Engineer @ CDAC** | 🏙️ **Pune, India**
+  
+</div>
+
+> **🚀 On a mission to:** Scale artificial intelligence beyond conventional limits using high-performance computing infrastructure
+
+### 💡 What Drives Me
+
+I'm not just building models – I'm crafting the **future of intelligent systems**. Every day, I dive deep into the intersection of cutting-edge AI research and real-world scalability challenges. My passion lies in taking breakthrough ML concepts and making them **blazingly fast**, **massively scalable**, and **production-ready**.
+
+### 🌟 My Superpowers
+
+**🔬 AI Research & Development**  
+Exploring the frontiers of deep learning, NLP, and computer vision to solve complex problems that matter.
+
+**⚡ Performance Optimization**  
+Turning slow models into lightning-fast systems through GPU optimization, distributed training, and smart architecture design.
+
+**🎯 End-to-End Solutions**  
+From research paper to production deployment – I bridge the gap between theoretical breakthroughs and practical applications.
+
+**🚀 Innovation Catalyst**  
+Constantly experimenting with emerging technologies like LLMs, RAG systems, and next-gen AI frameworks.
+
+### 🎨 Current Adventures
+
+- **🧠 LLM Engineering:** Fine-tuning and optimizing large language models for specific use cases
+- **🌐 Distributed AI:** Scaling training across multiple GPUs and HPC clusters
+- **🔍 AI Research:** Benchmarking cutting-edge models and frameworks
+- **🛠️ Tool Building:** Creating internal AI/ML tools that empower teams to build better
+
+### 💭 My Philosophy
+
+*"The best AI systems are not just intelligent – they're accessible, scalable, and built to augment human potential. Every optimization, every line of code, every experiment is a step toward a future where AI truly serves humanity."*
+
+---
+
+<div align="center">
+  
+  **🎯 Always exploring** • **🚀 Always optimizing** • **🌟 Always learning**
+  
+</div>  
 
 ---
 
@@ -78,6 +106,22 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
+</div>
+
+---
+
+## 🏆 Core Competencies
+
+<div align="center">
+  
+| 🤖 **Machine Learning** | 🧠 **Deep Learning** | 💬 **NLP** | 📊 **Data Science** |
+|:---:|:---:|:---:|:---:|
+| Model Selection | Neural Networks | Text Processing | Data Cleaning |
+| Hyperparameter Tuning | CNN/RNN/LSTM | Embeddings | EDA & Visualization |
+| Feature Engineering | GPU Optimization | Transformers | Statistical Analysis |
+| Time Series Forecasting | Multi-GPU Training | LLM Pipelines | Hypothesis Testing |
+| Model Evaluation | Distributed Training | Prompt Engineering | Data Visualization |
+
 </div>
 
 ---
