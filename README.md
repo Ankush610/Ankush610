@@ -17,15 +17,22 @@
 ```python
 class AnkushSonawane:
     def __init__(self):
+        self.name = "Ankush Sonawane"
         self.role = "Project Engineer @ CDAC"
-        self.location = "Pune, Maharashtra 🇮🇳"
-        self.passion = ["AI/ML Optimization", "HPC Systems", "LLM Research"]
-        self.motto = "Combining AI brilliance with HPC power! ⚡"
+        self.location = "Pune, Maharashtra, India"
+        self.focus = ["AI/ML", "HPC", "Deep Learning", "NLP"]
+        self.current_work = [
+            "AI/ML model optimization",
+            "LLM benchmarking & evaluation",
+            "HPC performance analysis",
+            "Distributed training systems"
+        ]
     
-    def current_focus(self):
-        return ["🔥 LLM benchmarking", "🚀 Distributed training", "⚡ Model optimization"]
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together! 🚀")
 
 me = AnkushSonawane()
+me.say_hi()
 ```
 
 ---
