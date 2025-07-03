@@ -12,9 +12,7 @@
 
 ---
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=ABOUT+ME+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" />
-</div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=ABOUT+ME+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB" alt="Typing SVG" /></div>
 ---
 
 ```python
