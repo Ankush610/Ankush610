@@ -86,5 +86,5 @@ me = AnkushSonawane()
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing&font=Fira%20Code&center=true&width=500&height=60&color=00d4aa&vCenter=true&size=20&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+😊;Star+⭐+Repo's+If+You+Find+Them+Amazing&font=Fira%20Code&center=true&width=500&height=60&color=00d4aa&vCenter=true&size=20&pause=1000">
 </div>
