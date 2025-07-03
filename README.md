@@ -32,24 +32,41 @@ me = AnkushSonawane()
 
 ## 🛠️ Tech Arsenal
 
-<div align="center">
+### 🤖 Machine Learning & AI
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+  <img src="https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio"/>
+  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
+</div>
 
-**🤖 AI/ML Stack**
-<br>
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗Transformers-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+### 🧠 Deep Learning & NLP
+<div align="left">
+  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="Transformers"/>
+  <img src="https://img.shields.io/badge/CNN-4285F4?style=for-the-badge&logo=tensorflow&logoColor=white" alt="CNN"/>
+  <img src="https://img.shields.io/badge/RNN-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="RNN"/>
+  <img src="https://img.shields.io/badge/LSTM-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="LSTM"/>
+  <img src="https://img.shields.io/badge/LLMs-00D4AA?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=retrieval&logoColor=white" alt="RAG"/>
+</div>
 
-**⚡ HPC & DevOps**
-<br>
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=flat-square)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+### 🔧 Development & Tools
+<div align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge&logo=slurm&logoColor=white" alt="SLURM"/>
+  <img src="https://img.shields.io/badge/Apptainer-FF6B6B?style=for-the-badge&logo=singularity&logoColor=white" alt="Apptainer"/>
+</div>
 
+### 💾 Databases
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
 </div>
 
 ---
@@ -57,12 +74,12 @@ me = AnkushSonawane()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ankush610&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush610&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ankush610&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ankush610&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush610&theme=tokyonight&hide_border=true&fire=00d4aa&ring=00d4aa&currStreakLabel=00d4aa" alt="Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush610&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 ---
