@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=HPC+%2B+AI%2FML+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Specialist;NLP+%26+LLM+Expert&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.demolab.com/?lines=HPC+%2B+AI%2FML+Engineer;Machine+Learning;Deep+Learning;NLP+%26+LLMt&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </div>
 
 <div align="center">
