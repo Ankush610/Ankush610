@@ -84,13 +84,4 @@ me = AnkushSonawane()
 
 ---
 
-## 🌟 Let's Connect & Build Together!
-
-<div align="center">
-  
-  **Open to collaborating on cutting-edge AI/ML and HPC projects!**
-  
-  [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-sonawane-55b100234/)
-  [![Email](https://img.shields.io/badge/Drop_me_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankushsonawane60@gmail.com)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B50DFF&center=true&width=470&lines=Thanks+For+Visiting+!!!;Star+Repo's+If+You+Find+Them+Amazing+%E2%AD%90)](https://git.io/typing-svg)
