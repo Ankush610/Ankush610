@@ -1,5 +1,3 @@
-# Hi there! 👋 I'm Ankush Sonawane
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=HPC+%2B+AI%2FML+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Specialist;NLP+%26+LLM+Expert&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
 </div>
@@ -81,22 +79,6 @@ me.say_hi()
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="ChromaDB"/>
-</div>
-
----
-
-## 🏆 Core Competencies
-
-<div align="center">
-  
-| 🤖 **Machine Learning** | 🧠 **Deep Learning** | 💬 **NLP** | 📊 **Data Science** |
-|:---:|:---:|:---:|:---:|
-| Model Selection | Neural Networks | Text Processing | Data Cleaning |
-| Hyperparameter Tuning | CNN/RNN/LSTM | Embeddings | EDA & Visualization |
-| Feature Engineering | GPU Optimization | Transformers | Statistical Analysis |
-| Time Series Forecasting | Multi-GPU Training | LLM Pipelines | Hypothesis Testing |
-| Model Evaluation | Distributed Training | Prompt Engineering | Data Visualization |
-
 </div>
 
 ---
