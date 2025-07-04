@@ -99,6 +99,23 @@ me.say_hi()
 
 ---
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+
+---
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+For+Visiting+%F0%9F%98%8A;Star+%E2%AD%90+Repo's+If+You+Find+Them+Amazing&font=Fira%20Code&center=true&width=500&height=60&color=00d4aa&vCenter=true&size=20&pause=1000">
