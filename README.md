@@ -24,7 +24,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=ABOUT+ME" alt="About Me" />
 </div>
 
----
 
 ```python
 class AnkushSonawane:
@@ -53,8 +52,6 @@ me.say_hi()
 <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=Tech+Arsenal" alt="Tech Arsenal" />
 </div>
 
----
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/-Machine%20Learning%20%26%20AI-00d4aa?style=for-the-badge&logo=rocket&logoColor=white" alt="ML & AI"/>
@@ -68,8 +65,6 @@ me.say_hi()
 ![Gradio](https://img.shields.io/badge/Gradio-FF6B6B?style=for-the-badge&logo=gradio&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/-Deep%20Learning%20%26%20NLP-a855f7?style=for-the-badge&logo=brain&logoColor=white" alt="DL & NLP"/>
 
 <br/>
@@ -81,8 +76,6 @@ me.say_hi()
 ![LLMs](https://img.shields.io/badge/LLMs-00D4AA?style=for-the-badge&logo=openai&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=elasticsearch&logoColor=white)
 
-<br/><br/>
-
 <img src="https://img.shields.io/badge/-Development%20%26%20Tools-f59e0b?style=for-the-badge&logo=hammer&logoColor=white" alt="Dev & Tools"/>
 
 <br/>
@@ -93,8 +86,6 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SLURM](https://img.shields.io/badge/SLURM-0066CC?style=for-the-badge&logo=slurm&logoColor=white)
 ![Apptainer](https://img.shields.io/badge/Apptainer-FF6B6B?style=for-the-badge&logo=singularity&logoColor=white)
-
-<br/><br/>
 
 <img src="https://img.shields.io/badge/-Databases-3b82f6?style=for-the-badge&logo=database&logoColor=white" alt="Databases"/>
 
@@ -112,11 +103,8 @@ me.say_hi()
 <img src="https://readme-typing-svg.demolab.com?font=Archivo+Black&pause=1000&color=F5EDF7&center=true&repeat=false&width=435&lines=GitHub+Analytics" alt="GitHub Analytics" />
 </div>
 
----
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ankush610&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ankush610&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
