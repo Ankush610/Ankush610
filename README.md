@@ -10,21 +10,19 @@
 ankush@cdac:~$ fastfetch
 
        .--.            ankush@cdac
-      |o_o |           ──────────────────────────────────────────
-      |:_/ |           Name        Ankush Sonawane
-     //   \ \          Role        Project Engineer @ C-DAC, Pune
-    (|     | )         Uptime      2.5 yrs
-   /'\_   _/`\         Focus       LLM Infrastructure · MLOps · HPC
-   \___)=(___/         Systems     PARAM Shavak · PARAM Rudra
-                       Serving     vLLM · CUDA
-                       MLOps       MLflow · Kubernetes
-                       HPC         Slurm · Apptainer
-                       Education   PG-DAI (C-DAC) · B.E. Computer Engg (SPPU)
-                       OS          Linux · Wayland
+      |o_o |           ─────────────────────────────────────────────
+      |:_/ |           Name     Ankush Sonawane
+     //   \ \          Role     Project Engineer @ C-DAC, Pune
+    (|     | )         Uptime   since Apr 2024
+   /'\_   _/`\         Builds   AI infra on India's national supercomputers
+   \___)=(___/         Systems  PARAM Shavak · PARAM Rudra
+                       Serving  vLLM · SGLang · llama.cpp
+                       MLOps    MLflow · Kubernetes · Keycloak
+                       HPC      Slurm · Apptainer · DDP/FSDP · CUDA 12.9
+                       Edu      PG-DAI (C-DAC) · B.E. Comp Engg (SPPU)
 
                        ███ ███ ███ ███ ███ ███ ███ ███
 
-ankush@cdac:~$ █
 ```
 
 <div align="center">
