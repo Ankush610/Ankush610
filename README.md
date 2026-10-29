@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://ankush610.netlify.app/" target="_blank">
+  <a href="https://ankush610.pages.dev/" target="_blank">
     <pre>
  █████╗ ███╗   ██╗██╗  ██╗██╗   ██╗███████╗██╗  ██╗
 ██╔══██╗████╗  ██║██║ ██╔╝██║   ██║██╔════╝██║  ██║
